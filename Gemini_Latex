@@ -1,0 +1,153 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{Jeffrey Epstein Documents}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Letter from Attorney General Pamela Bondi to FBI Director Patel}
+
+\begin{verbatim}
+Office of the Attorney General
+Washington, D.C. 20530
+
+February 27, 2025
+
+Dear Director Patel,
+
+Before you came into office, I requested the full and complete files related to Jeffrey
+Epstein. In response to this request, I received approximately 200 pages of documents, which
+consisted primarily of flight logs, Epstein's list of contacts, and a list of victims' names and
+phone numbers.
+
+I repeatedly questioned whether this was the full set of documents responsive to my
+request and was repeatedly assured by the FBI that we had received the full set of documents.
+Late yesterday, I learned from a source that the FBI Field Office in New York was in possession
+of thousands of pages of documents related to the investigation and indictment of Epstein.
+Despite my repeated requests, the FBI never disclosed the existence of these files. When you
+and I spoke yesterday, you were just as surprised as I was to learn this new information.
+
+By 8:00 a.m. tomorrow, February 28, the FBI will deliver the full and complete Epstein
+files to my office, including all records, documents, audio and video recordings, and materials
+related to Jeffrey Epstein and his clients, regardless of how such information was obtained.
+There will be no withholdings or limitations to my or your access. The Department of Justice
+will ensure that any public disclosure of these files will be done in a manner to protect the
+privacy of victims and in accordance with law, as I have done my entire career as a prosecutor.
+
+I am also directing you to conduct an immediate investigation into why my order to the
+FBI was not followed. You will deliver to me a comprehensive report of your findings and
+proposed personnel action within 14 days.
+
+I appreciate your immediate attention to this important matter. I know that we are both
+committed to transparency for the American people, and I look forward to continuing to work
+with you to serve our President and our country.
+
+Sincerely,
+
+Pamela Bondi
+Attorney General
+\end{verbatim}
+
+\section{Inventory of Items (Incomplete OCR)}
+\begin{itemize}
+    \item Page 2,3, and 4 Contains and index.  Due to image artifacts the test is unreadable via OCR, But looks to an inventory list by Item number of Evidence and if its physical or digital.
+\end{itemize}
+
+\section{Flight Logs}
+The subsequent pages contain flight logs. Here's a breakdown of the repeated columns, followed by a representative entry transcription:
+
+\textbf{Column Headers:}
+
+\begin{itemize}
+    \item \textbf{DATE (MM/DD/YY)}: Date of the flight.
+    \item \textbf{AIRCRAFT MAKE AND MODEL}:  The type of aircraft.
+    \item \textbf{AIRCRAFT IDENTIFICATION MARK}: Tail number.
+    \item \textbf{POINTS OF DEPARTURE \& ARRIVAL}:  Origin and destination airports (using airport codes).
+        \begin{itemize}
+            \item \textbf{FROM}
+            \item \textbf{TO}
+        \end{itemize}
+    \item \textbf{MILES FLT. PISTON NO.}: Likely related to engine/flight hours.
+    \item \textbf{REMARKS, PROCEDURES, MANEUVERS, ENDORSEMENTS}: Notes about the flight or passengers.
+    \item \textbf{NO.  LOC.}: Likely Number of Landings
+    \item \textbf{AIRCRAFT CATEGORY}: Pilot or passenger Status.
+
+\end{itemize}
+
+\textbf{Representative Entries (Page 5):}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+DATE & AIRCRAFT MAKE & AIRCRAFT & \multicolumn{2}{|c|}{POINTS OF DEPARTURE \& ARRIVAL} & MILES & REMARKS, PROCEDURES, & NO. & AIRCRAFT \\
+MM/DD &  AND MODEL & IDENTIFICATION & FROM & TO & FLT. & MANEUVERS, ENDORSEMENTS & LOC &  CATEGORY \\
+YY & &MARK&&&PISTION NO.&&&\\\hline
+
+4/24/91&N825HS&N450HS&P.B-CLX & CMH & TEB&33 & Profile Mr. Trotan &1/2 & 42 &7 \\\hline
+4/30/91& " & CMH & P.B-CMH &35 & 10  R.L Coleman &1/2 & 51 & 5\\ \hline
+05/08/91& "&CMH&PBI-CGF-CMH &13 & 150  ALL ColeMan&4/5 & 45&L  \\\hline
+\end{tabular}
+
+Note " Refers to repeating information.
+The logs detail flights between various airports, often with notes about the passengers, procedures, remarks. Frequent airport codes observed:
+
+\begin{itemize}
+    \item CMH:  Likely Port Columbus International Airport (now John Glenn Columbus International Airport), Ohio
+    \item TEB:  Teterboro Airport, New Jersey
+    \item PBI:  Palm Beach International Airport, Florida
+    \item DCA: Ronald Reagan Washington National Airport
+\end{itemize}
+Most Flights were between CMH,PBI,TEB
+
+Pilot listed in Logs is \textbf{David Rodgers}
+
+\section{Redacted Contact Information Pages}
+Following The flight logs is an extensive series of charts, where nearly all text is completely redacted, leaving only bar graphs of different heights and corresponding names beside.
+
+Page 6 Lists Names From A-L Names
+Page 7 Lists L-Z
+
+Representative Entry example from Page 6.
+
+```latex
+\begin{tabular}{l}
+*Redactions for personal\\
+contact information\\
+\hline
+Abby \hspace{1cm} \rule{2cm}{1cm} \\
+Abronstielman, Joanna \hspace{1cm} \rule{2cm}{0.5cm} \\
+Adam, Nick \hspace{1cm} \rule{1.5cm}{0.2cm} \\
+Alexander, Zam \hspace{1cm} \rule{2.5cm}{0.7cm}\\
+...\\
+\end{tabular}
+content_copy
+download
+Use code with caution.
+Latex
+
+\section{Email Addresses}
+
+Following The Charts. Page titled
+
+Important e-mail / addresses
+Jeffrey Epstein : (Redacted)
+Ghislaine Maxwell: (Redacted)
+Other important Contact's and information pertaining to them has also been redacted on this page.
+The page has two Categories on it: Important e-mail and Visitors Message.
+
+\section{Masseuses List}
+*Redacted to protect potential victim information
+
+\textbf{MASSEUSES}
+
+Numbered list from 1-254 . All entries are completely redacted.
+\end{document}
+
+content_copy
+download
+Use code with caution.
